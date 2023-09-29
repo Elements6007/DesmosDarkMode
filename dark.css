@@ -12,10 +12,6 @@
     border-top: 1px solid rgba(20, 20, 20);
 }
 
-.dcg-calculator-api-container .dcg-container .dcg-expression-top-bar {
-    background: linear-gradient(#0f0f0f, #0f0f0f) !important
-}
-
 .dcg-calculator-api-container .dcg-exppanel .dcg-expressionitem .dcg-tab {
     background: rgba(0, 0, 0, 0.2) !important;
     border-right: 1px solid rgba(0, 0, 0, 0.2) !important;
@@ -43,6 +39,10 @@
 
 .dcg-calculator-api-container .dcg-expressionitem.dcg-expressiontable .dcg-tabledata:not(.dcg-focus-in-right-column):after {
     background: linear-gradient(to left, rgb(35, 35, 35), rgba(35, 35, 35, 0));
+}
+
+.dcg-calculator-api-container .dcg-container .dcg-expression-top-bar {
+    background: #0f0f0f !important;
 }
 
 .dcg-calculator-api-container .dcg-expression-edit-actions .dcg-graphic {
