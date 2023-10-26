@@ -1,13 +1,15 @@
 {
     "name": "Desmos: Dark Mode",
-    "version": "0.0.9",
+    "version": "0.1.2",
     "manifest_version": 3,
-    "host_permissions": ["https://*.desmos.com/*"],
     "description" : "Dark Mode for Desmos",
     "content_scripts" : [
        {
-        "matches": ["https://*.desmos.com/*"],
+        "matches": ["https://www.desmos.com/calculator"],
         "css" : ["dark.css"]
        }
-    ]
+    ],
+    "icons": {
+        "128": "iconhlf.png"
+    }
 }
