@@ -5,7 +5,7 @@
     "description" : "Dark Mode for Desmos",
     "content_scripts" : [
        {
-        "matches": ["https://www.desmos.com/calculator"],
+        "matches": ["https://*.desmos.com/calculator"],
         "css" : ["dark.css"]
        }
     ],
