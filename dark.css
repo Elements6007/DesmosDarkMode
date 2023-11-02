@@ -49,6 +49,19 @@
     background: linear-gradient(to right, rgba(35, 35, 35, 0), rgb(35, 35, 35));
 }
 
+.dcg-calculator-api-container .dcg-keypad .dcg-functions-popover .dcg-section-heading {
+    background: none !important;
+    color: #fff;
+}
+
+.dcg-calculator-api-container .dcg-btn-light-gray { /*functions tray*/
+    background: none !important;
+}
+
+.dcg-calculator-api-container .dcg-expression-edit-actions .dcg-graphic {
+    background: none !important;
+}
+
 .dcg-calculator-api-container .dcg-container .dcg-mq-editable-field:not(.dcg-no-fadeout) .dcg-mq-root-block.dcg-mq-editing-overflow-left:before {
     background: linear-gradient(to left, rgba(35, 35, 35, 0), rgb(35, 35, 35));
 }

@@ -1,11 +1,11 @@
 {
     "name": "Desmos: Dark Mode",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "manifest_version": 3,
     "description" : "Dark Mode for Desmos",
     "content_scripts" : [
        {
-        "matches": ["https://www.desmos.com/calculator"],
+        "matches": ["https://*.desmos.com/calculator"],
         "css" : ["dark.css"]
        }
     ],
