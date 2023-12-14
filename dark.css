@@ -51,7 +51,7 @@
 
 .dcg-calculator-api-container .dcg-keypad .dcg-functions-popover .dcg-section-heading {
     background: none !important;
-    color: #fff;
+    color: #fff !important;
 }
 
 .dcg-calculator-api-container .dcg-btn-light-gray { /*functions tray*/
@@ -307,6 +307,10 @@
     border: 1px solid #444;
 }
 
+.dcg-calculator-api-container .dcg-basic-keypad * {
+    color: white;
+}
+
 .dcg-calculator-api-container .dcg-btn-light-gray {
     background: linear-gradient(#3a3a3a, #303030);
 }
@@ -391,3 +395,4 @@
     border-radius: 50%;
     border: 0px solid #eee;
 }
+
