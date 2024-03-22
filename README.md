@@ -3,7 +3,7 @@
 
 
 
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://chromewebstore.google.com/detail/desmos-dark-mode/ekhpmjmggldeanbpjimpbphciablggln)[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/user/17867182/) 
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://chromewebstore.google.com/detail/desmos-dark-mode/ekhpmjmggldeanbpjimpbphciablggln) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/desmos-dark-mode/) 
 # Desmos: Dark Mode
 Browser extension for Desmos Calculator to give it a dark mode
 
