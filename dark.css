@@ -12,9 +12,31 @@
     border-top: 1px solid rgba(20, 20, 20);
 }
 
+.dcg-calculator-api-container-v1_10 .dcg-container {
+    font-size: 100%;
+    color: #ddd !important;
+    background: #0f0f0f !important;
+}
+
+.dcg-calculator-api-container-v1_10 .dcg-container .dcg-expression-top-bar {
+    background: #0f0f0f !important;
+}
+
+.dcg-calculator-api-container-v1_10 .dcg-exppanel .dcg-expressionitem .dcg-tab {
+    background: #3a3a3a !important;
+}
+
+.dcg-calculator-api-container-v1_10 .dcg-expressionitem.dcg-new-expression .dcg-new-math-div .dcg-new-expression-fade {
+    background: #3a3a3a !important;
+}
+
 .dcg-calculator-api-container .dcg-exppanel .dcg-expressionitem .dcg-tab {
     background: rgba(0, 0, 0, 0.2) !important;
     border-right: 1px solid rgba(0, 0, 0, 0.2) !important;
+}
+
+.dcg-calculator-api-container-v1_10 .dcg-container .dcg-mq-editable-field:not(.dcg-no-fadeout):after {
+    background: linear-gradient(to right,#0f0f0f,#0f0f0f) !important;
 }
 
 .dcg-calculator-api-container .dcg-container .dcg-mq-editable-field:not(.dcg-no-fadeout):after {
