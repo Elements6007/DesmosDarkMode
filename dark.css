@@ -418,3 +418,88 @@
     border: 0px solid #eee;
 }
 
+.dcg-calculator-api-container-v1_11 .dcg-container.dcg-is-interactive, .dcg-calculator-api-container-v1_11 .dcg-container.dcg-is-interactive .dcg-grapher {
+    background-color: #0f0f0f !important;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-container .dcg-expression-top-bar {
+    background: #0f0f0f !important;
+    color: white;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-exppanel .dcg-expressionitem.dcg-selected .dcg-tab, .dcg-calculator-api-container-v1_11 .dcg-exppanel .dcg-expressionitem.dcg-dragging .dcg-tab {
+    background: #2a2a2a !important;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-expressionitem.dcg-new-expression .dcg-new-math-div .dcg-new-expression-fade {
+    background: none !important;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-top-level-icon {
+    color: white;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-container .dcg-mq-editable-field:not(.dcg-no-fadeout):after {
+    background: none !important;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-exppanel .dcg-expressionitem .dcg-tab {
+    background-color: #2a2a2a !important;
+}
+
+/*.dcg-calculator-api-container-v1_11 .dcg-container * {
+    background: transparent !important;
+}*/
+
+.dcg-calculator-api-container-v1_11 .dcg-expression-edit-actions .dcg-exp-action-button {
+    color: white;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-btn-flat-gray {
+    color: white;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-basic-keypad .dcg-keypad-btn-container .dcg-keypad-btn {
+    background: #2a2a2a !important;
+    color: white;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-keypad .dcg-functions-popover .dcg-popover-interior .dcg-keypad-btn-container .dcg-keypad-btn {
+    background: #2a2a2a !important;
+    color: white;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-basic-keypad .dcg-keypad-btn-container .dcg-keypad-btn.dcg-btn-dark-on-gray {
+    color: white;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-keypad .dcg-functions-popover .dcg-popover-interior .dcg-keypad-btn-container .dcg-keypad-btn {
+    color: white !important;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-keypad .dcg-keys-background {
+    background-color: #2a2a2a !important;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-keypad .dcg-functions-popover .dcg-popover-interior {
+    background-color: #2a2a2a !important;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-keypad .dcg-keys-background .dcg-minimize-keypad {
+    background-color: #2a2a2a !important;
+    border-bottom: none !important;
+    color: white !important;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-settings-container .dcg-popover-interior {
+    background-color: #2a2a2a !important;
+    color: white !important;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-keypad .dcg-show-keypad {
+    background-color: #2a2a2a !important;
+}
+
+.dcg-calculator-api-container-v1_11 .dcg-pillbox-btn-interior {
+    background-color: #2a2a2a !important;
+}
